@@ -1,0 +1,19 @@
+/* .circle{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    
+}
+.container{
+    padding: 30px;
+    display: flex;
+    gap: 1rem;
+} */
+
+.active{
+    color: #fff700;
+}
+.inactive{
+    color: black;
+}
